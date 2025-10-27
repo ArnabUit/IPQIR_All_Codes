@@ -1,2 +1,4 @@
 The classical chest X-Ray image can be found at : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 The converted quantum chest X-ray image is uploaded at Kaggle. The dataset can be found at : https://www.kaggle.com/datasets/arnabchatterjeeuit/chest-x-ray-classical-and-quantum-dataset
+
+For the two python scripts epoch has been set to 4 as sample. In our experiment, we have taken epoch =20.
